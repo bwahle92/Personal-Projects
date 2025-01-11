@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+}
+
+#Bepis{
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
